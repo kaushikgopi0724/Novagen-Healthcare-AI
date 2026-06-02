@@ -10,8 +10,8 @@ st.set_page_config(
     layout = "wide"
 )
 
-model = joblib.load("../models/health_risk_model.pkl")
-features = joblib.load("../models/model_features.pkl")
+model = joblib.load("models/health_risk_model.pkl")
+features = joblib.load("models/model_features.pkl")
 explainer = shap.TreeExplainer(model)
 
 st.title("🏥 Novagen Healthcare AI")
