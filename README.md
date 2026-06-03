@@ -129,6 +129,32 @@ The deployed Streamlit application includes:
 
 ---
 
+# Applicatoin Preview
+
+## Home Page
+
+![Home Page](images/home_page.png)
+
+---
+
+## Prediction Result
+
+![Prediction Result](images/prediction_result.png)
+
+---
+
+## SHAP Explainability
+
+![SHAP Explanation](images/shap_explanation.png)
+
+---
+
+## Model Insights
+
+![Model Insights](images/model_insights.png)
+
+---
+
 # Project Structure
 
 ```bash
